@@ -7,7 +7,7 @@ return pass;
 }
 
 function multiply() {
-return pass;
+return x*y;
 }
 
 function divide() {
