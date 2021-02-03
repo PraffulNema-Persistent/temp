@@ -3,7 +3,7 @@ return x+y;
 }
 
 function subtract() {
-return pass;
+return x-y;
 }
 
 function multiply() {
