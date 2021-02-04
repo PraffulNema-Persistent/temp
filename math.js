@@ -13,5 +13,5 @@ return x*y;
 }
 
 function divide() {
-return pass;
+return x/y;
 }
