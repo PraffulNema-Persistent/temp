@@ -3,7 +3,9 @@ return x+y;
 }
 
 function subtract() {
-return x-y;
+	if x < y:
+		return error
+	return x-y;
 }
 
 function multiply() {
